@@ -41,4 +41,4 @@ I am a Data Scientist and Economist passionate about turning data into knowledge
 
 ## Contact
 
-:email: cs.contact@tutanota.com
+📧 [cs.contact@tutanota.com](mailto:cs.contact@tutanota.com)

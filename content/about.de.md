@@ -40,4 +40,4 @@ Ich bin Data Scientist und Ökonom und beschäftige mich leidenschaftlich damit,
 
 ## Kontakt
 
-:email: cs.contact@tutanota.com
+📧 [cs.contact@tutanota.com](mailto:cs.contact@tutanota.com)
