@@ -1,0 +1,6 @@
+{{- range . -}}
+  {{- $rel := "me noopener noreferrer" -}}
+  {{- with .rel }}{{ $rel = printf "%s %s" $rel . }}{{ end -}}
+  {{- $newTab := ne (default 0 .nonewpage) 1 -}}
+  &nbsp; <a href="{{ .url }}"{{ if $newTab }} target="_blank"{{ end }} rel="{{ $rel }}" title="{{ .name | humanize }}">{{ partial "svg.html" . }}</a> &nbsp;
+{{- end -}}
